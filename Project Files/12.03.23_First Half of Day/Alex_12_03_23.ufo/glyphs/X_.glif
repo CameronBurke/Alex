@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="X" format="2">
+  <advance width="549"/>
+  <unicode hex="0058"/>
+  <note>
+This is not an exact scaled replica of the lc version. Not sure if they need to be identical or not..
+</note>
+  <outline>
+    <contour>
+      <point x="40" y="720" type="line"/>
+      <point x="124" y="720" type="line"/>
+      <point x="509" y="0" type="line"/>
+      <point x="425" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="270" y="319" type="line"/>
+      <point x="124" y="0" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="232" y="385" type="line"/>
+      <point x="269" y="418" type="line"/>
+      <point x="425" y="720" type="line"/>
+      <point x="509" y="720" type="line"/>
+      <point x="307" y="352" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

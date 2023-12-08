@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k" format="2">
+  <advance width="440"/>
+  <unicode hex="006B"/>
+  <note>
+The weight of the diagonals is purely optical. I have no idea if I am approaching these correctly. Again mathmatically they are heavier than the vertical which seems counterintuitive. 1
+</note>
+  <outline>
+    <contour>
+      <point x="135" y="745" type="line"/>
+      <point x="65" y="745" type="line"/>
+      <point x="65" y="4" type="line"/>
+      <point x="135" y="4" type="line"/>
+    </contour>
+    <contour>
+      <point x="91" y="123" type="line"/>
+      <point x="408" y="520" type="line"/>
+      <point x="332" y="520" type="line"/>
+      <point x="91" y="217" type="line"/>
+    </contour>
+    <contour>
+      <point x="177" y="252" type="line"/>
+      <point x="334" y="0" type="line"/>
+      <point x="410" y="0" type="line"/>
+      <point x="222" y="307" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

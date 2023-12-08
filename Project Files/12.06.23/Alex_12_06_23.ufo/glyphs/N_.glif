@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N" format="2">
+  <advance width="650"/>
+  <unicode hex="004E"/>
+  <note>
+Made my verticals optically balanced to the horizontal. I was tempted to make them thinner to follow contrast model but following Troy’s advice that the contast is too minimal and making the verticals too thin would simply disrupt the rhythm.
+</note>
+  <outline>
+    <contour>
+      <point x="171" y="709" type="line"/>
+      <point x="133" y="709" type="line"/>
+      <point x="447" y="0" type="line"/>
+      <point x="555" y="0" type="line"/>
+      <point x="555" y="720" type="line"/>
+      <point x="479" y="720" type="line"/>
+      <point x="479" y="11" type="line"/>
+      <point x="519" y="11" type="line"/>
+      <point x="215" y="720" type="line"/>
+      <point x="95" y="720" type="line"/>
+      <point x="95" y="0" type="line"/>
+      <point x="171" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

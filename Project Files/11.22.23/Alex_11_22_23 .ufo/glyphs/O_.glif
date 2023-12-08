@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="O" format="2">
+  <advance width="646"/>
+  <unicode hex="004F"/>
+  <note>
+Try a little bit squarer on the curves.
+</note>
+  <outline>
+    <contour>
+      <point x="323" y="54" type="curve" smooth="yes"/>
+      <point x="227" y="54"/>
+      <point x="143" y="183"/>
+      <point x="143" y="372" type="curve" smooth="yes"/>
+      <point x="143" y="561"/>
+      <point x="227" y="666"/>
+      <point x="323" y="666" type="curve"/>
+      <point x="422" y="666"/>
+      <point x="503" y="561"/>
+      <point x="503" y="372" type="curve" smooth="yes"/>
+      <point x="503" y="183"/>
+      <point x="420" y="54"/>
+    </contour>
+    <contour>
+      <point x="323" y="-12" type="curve" smooth="yes"/>
+      <point x="462" y="-12"/>
+      <point x="581" y="141"/>
+      <point x="581" y="372" type="curve" smooth="yes"/>
+      <point x="581" y="603"/>
+      <point x="463" y="732"/>
+      <point x="323" y="732" type="curve" smooth="yes"/>
+      <point x="183" y="732"/>
+      <point x="65" y="603"/>
+      <point x="65" y="372" type="curve" smooth="yes"/>
+      <point x="65" y="141"/>
+      <point x="184" y="-12"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="R" format="2">
+  <advance width="556"/>
+  <unicode hex="0052"/>
+  <note>
+12.03.23
+
+•Made the lower part of the bowl a little lighter to optically compensate for the leg (GrilliType lesson told me that)
+•Optically the leg looks right but mathmatically it is way too heavy
+</note>
+  <outline>
+    <contour>
+      <point x="288" y="283" type="line"/>
+      <point x="473" y="0" type="line"/>
+      <point x="557" y="0" type="line"/>
+      <point x="372" y="283" type="line"/>
+    </contour>
+    <contour>
+      <point x="95" y="720" type="line"/>
+      <point x="95" y="0" type="line"/>
+      <point x="171" y="0" type="line"/>
+      <point x="171" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="151" y="720" type="line"/>
+      <point x="151" y="654" type="line"/>
+      <point x="280" y="654" type="line"/>
+      <point x="409" y="654"/>
+      <point x="445" y="595"/>
+      <point x="445" y="495" type="curve" smooth="yes"/>
+      <point x="445" y="408"/>
+      <point x="410" y="336"/>
+      <point x="281" y="336" type="curve"/>
+      <point x="161" y="336" type="line"/>
+      <point x="161" y="336"/>
+      <point x="161" y="270"/>
+      <point x="161" y="270" type="curve"/>
+      <point x="294" y="270" type="line"/>
+      <point x="426" y="270"/>
+      <point x="521" y="348"/>
+      <point x="521" y="495" type="curve" smooth="yes"/>
+      <point x="521" y="656"/>
+      <point x="425" y="720"/>
+      <point x="293" y="720" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

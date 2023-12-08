@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="x" format="2">
+  <advance width="418"/>
+  <unicode hex="0078"/>
+  <note>
+This was all optical adjustments. I have no idea if the top counter of the “x” is identical to the bottom as well as left and right
+</note>
+  <guideline x="416" y="520" angle="62.91" name="X Angle" identifier="iEM6MqBJNC"/>
+  <outline>
+    <contour>
+      <point x="40" y="520" type="line"/>
+      <point x="111" y="520" type="line"/>
+      <point x="378" y="0" type="line"/>
+      <point x="308" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="209" y="221" type="line"/>
+      <point x="111" y="0" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="171" y="281" type="line"/>
+      <point x="205" y="313" type="line"/>
+      <point x="307" y="520" type="line"/>
+      <point x="378" y="520" type="line"/>
+      <point x="241" y="253" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.locked.iEM6MqBJNC</key>
+      <true/>
+      <key>public.markColor</key>
+      <string>0,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>
